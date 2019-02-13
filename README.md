@@ -6,10 +6,10 @@
 * Drink plenty of fluids.
 * Get on the move, make it a habit!
 
-###Be
-##healthy,
-##wealthy
-###and
-##wise!
-
 [gato](https://simple.wikipedia.org/wiki/Healthy_lifestyle)
+
+# Be
+## healthy,
+### wealthy
+#### and
+##### wise!
