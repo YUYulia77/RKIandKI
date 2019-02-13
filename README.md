@@ -5,7 +5,9 @@
 #Be
 ##healthy, 
 ### wealthy 
-#### and ##### wise!
+#### and 
+##### wise!
+
 * Enjoy plenty of fruits and vegetables.
 * Drink plenty of fluids.
 * Get on the move, make it a habit!
